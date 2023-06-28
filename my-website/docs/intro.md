@@ -6,7 +6,7 @@ slug: /
 # Gonçalo Pinheiro 
 
 
-![Alt text](<../static/img/foto gp 2.jpg>)
+![Alt text](gpcv1-1.png)
 
 ## Experiência.
 
