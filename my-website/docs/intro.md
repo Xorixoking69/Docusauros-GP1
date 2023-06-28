@@ -5,8 +5,8 @@ slug: /
 
 # Gonçalo Pinheiro 
 
+![Alt text](gpcv1-1.png)
 
-![Alt text](<../static/img/foto gp 2.jpg>)
 
 ## Experiência.
 
@@ -103,11 +103,8 @@ ligado a Cloud Computing.
 
 **Telemovel - 925458474**
 
-**Morada - Rua Carlos Reis Nº1 5º Frente**
+**Morada - Rua Carlos Reis Nº1 5º Frente Ramada - Odivelas 260-496**
 
 
-
- ##Teste 2 a ver se a aparece##
- 
 
 
