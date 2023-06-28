@@ -7,10 +7,6 @@ slug: /
 
 ![Alt text](gpcv1-1.png)
 
-<<<<<<< HEAD
-=======
-![Alt text](gpcv1-1.png)
->>>>>>> fee37a9a99ffeae83d32e318ab5dd78f02c0a19b
 
 ## Experiência.
 
